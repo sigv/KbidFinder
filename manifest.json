@@ -2,11 +2,13 @@
   "manifest_version": 2,
   "name": "KB ID Finder",
   "description": "Ensures that GUID-based Microsoft Support pages list the technical KBIDs.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "developer": {
     "name": "Valters Jansons",
     "url": "https://github.com/sigv/KbidFinder"
   },
+  "author": "Valters Jansons",
+  "homepage_url": "https://github.com/sigv/KbidFinder",
   "content_security_policy": "default-src 'self'; object-src 'self'",
   "icons": {
     "48": "icons/ZSBFoikEu_Q.png",
